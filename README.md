@@ -1,0 +1,1 @@
+Please note that Blockscout is a blockchain explorer and does not have the capability to manage or process transactions. For further help kindly contact the support team via https://interact-gethelp.web.app
